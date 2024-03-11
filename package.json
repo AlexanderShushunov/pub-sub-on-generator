@@ -13,5 +13,6 @@
     "js"
   ],
   "author": "Alexandr Shushunov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/AlexanderShushunov/pub-sub-on-generator"
 }
